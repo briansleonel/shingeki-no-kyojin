@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/attack-on-titan/static/css/main.573bb058.chunk.css",
+    "main.js": "/attack-on-titan/static/js/main.0a9d0c49.chunk.js",
+    "main.js.map": "/attack-on-titan/static/js/main.0a9d0c49.chunk.js.map",
+    "runtime-main.js": "/attack-on-titan/static/js/runtime-main.1413ebc7.js",
+    "runtime-main.js.map": "/attack-on-titan/static/js/runtime-main.1413ebc7.js.map",
+    "static/js/2.2d1fe420.chunk.js": "/attack-on-titan/static/js/2.2d1fe420.chunk.js",
+    "static/js/2.2d1fe420.chunk.js.map": "/attack-on-titan/static/js/2.2d1fe420.chunk.js.map",
+    "static/js/3.ca60a5bf.chunk.js": "/attack-on-titan/static/js/3.ca60a5bf.chunk.js",
+    "static/js/3.ca60a5bf.chunk.js.map": "/attack-on-titan/static/js/3.ca60a5bf.chunk.js.map",
+    "index.html": "/attack-on-titan/index.html",
+    "static/css/main.573bb058.chunk.css.map": "/attack-on-titan/static/css/main.573bb058.chunk.css.map",
+    "static/js/2.2d1fe420.chunk.js.LICENSE.txt": "/attack-on-titan/static/js/2.2d1fe420.chunk.js.LICENSE.txt",
+    "static/media/cuerpo-exploracion.34c76ed1.png": "/attack-on-titan/static/media/cuerpo-exploracion.34c76ed1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1413ebc7.js",
+    "static/js/2.2d1fe420.chunk.js",
+    "static/css/main.573bb058.chunk.css",
+    "static/js/main.0a9d0c49.chunk.js"
+  ]
+}
